@@ -98,7 +98,7 @@ export const reviews = [
   {
     id:1,
     imgURL: customer1,
-    customerName: "Morich Brown",
+    customerName: "Howard Wolowitz",
     rating: 4.5,
     feedback:
       "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
@@ -106,7 +106,7 @@ export const reviews = [
   {
     id:2,
     imgURL: customer2,
-    customerName: "Lota Mongeskar",
+    customerName: "Sheldon Cooper",
     rating: 4.5,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
@@ -138,8 +138,8 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "s14saurabh@gmail.com", link: "mailto:s14saurabh@gmail.com" },
+      { name: "+918340415248", link: "tel:+918340415248" },
     ],
   },
 ];
