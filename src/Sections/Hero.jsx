@@ -19,7 +19,7 @@ min-h-screen gap-10 max-container"
           className="text-xl font-montserrat
         text-coral-red "
         >
-          Our Summer Collection
+          Our Collection
         </p>
         <h1
           className="mt-10 font-palanquin
